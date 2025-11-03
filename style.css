@@ -13,3 +13,17 @@ div {
 h1 {
     font-family: Courier;
 }
+p {
+    font-family: Monospace, "Lucida Console";
+}
+td {
+    background: #FBE4D6;
+    border-radius: 5px;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
