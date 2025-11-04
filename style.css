@@ -18,6 +18,7 @@ h1 {
 }
 p {
     font-family: Monospace, "Lucida Console";
+    font-size: 17px;
 }
 td {
     background: #FBE4D6;
@@ -33,6 +34,7 @@ table {
 }
 td img {
     width: 90%;
-    height: 90%;
+    height: 60%;
     object-fit: cover;
+    border-radius: 5px;
 }
